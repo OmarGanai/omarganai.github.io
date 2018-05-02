@@ -1703,6 +1703,7 @@
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
+		font-family: 'Montserrat', sans-serif;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1740,6 +1741,7 @@
 
 	h2 {
 		font-size: 1.75em;
+		font-family: 'Montserrat', sans-serif;
 	}
 
 	h3 {
