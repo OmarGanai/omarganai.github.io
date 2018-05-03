@@ -3922,9 +3922,9 @@
 
 		}
 
-		.titleimg{position:relative;filter:contrast(1.5) brightness(0.9)}
+		.titleimg{position:relative;filter:contrast(1) brightness(1.2)}
 		.titleimg img{width:100%;z-index:1}
 		.titleimg:before{content:'';display:block;height:100%;width:100%;top:0;left:0;position:absolute;pointer-events:none;z-index:2}
 		.titleimg:after{content:'';display:block;height:100%;width:100%;top:0;left:0;position:absolute;pointer-events:none;z-index:3}
-		.titleimg img{filter:grayscale(1.0)}
-		.titleimg::after{background:linear-gradient(135deg, #5e42a6, #b74e91);mix-blend-mode:overlay}
+		.titleimg img{filter:grayscale(.25)}
+		.titleimg::after{background:linear-gradient(90deg, #5f459f, #b84f8d);mix-blend-mode:overlay}
