@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/oganai
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ganai.com
+  * I am oganai (https://keybase.io/oganai) on keybase.
+  * I have a public key ASAq_dtNiSzp34aa7gMgVubyAdwATUWSJ8kjCVzDanD_TQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202afddb4d892ce9df869aee032056e6f201dc004d459227c923095cc36a70ff4d0a",
+      "host": "keybase.io",
+      "kid": "01202afddb4d892ce9df869aee032056e6f201dc004d459227c923095cc36a70ff4d0a",
+      "uid": "92d734e82a494ea26adcfb3abd2eda19",
+      "username": "oganai"
+    },
+    "merkle_root": {
+      "ctime": 1525823804,
+      "hash": "b8cab5f1463a8c99434614cf0d94d5042fe186aea157f984866a55c7adc71fd71ac3e789654f36a0f89aee9e7a683358015e73f675f02bca0290fd793c42bdd6",
+      "hash_meta": "2cd4c756d62abf032ff0be44ee2b00558794f14431f784f169a1ee8688097ae1",
+      "seqno": 2524611
+    },
+    "service": {
+      "entropy": "d8nP2tNWEj5n1UCJUDJQVJ29",
+      "hostname": "ganai.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1525823812,
+  "expire_in": 504576000,
+  "prev": "0564efa7bda37b1b0139a775b68876c2d5ab59666523dfc4941e222ab9c485bc",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKv3bTYks6d+Gmu4DIFbm8gHcAE1FkifJIwlcw2pw/00Kp3BheWxvYWTESpcCB8QgBWTvp72jexsBOad1toh2wtWrWWZlI9/ElB4iKrnEhbzEIBUwFe69xtOm+eQ43L1GvJRL+p5T+/0H7ozwGrVt3fh3AgHCo3NpZ8RAkiG0rwaoDML29BT3iEGtAJNWYwUxlmdAHDRSyTCqlB3TPiqZgQ5PkJ2HCU6f5WAohiuRxXNfl7zWDegFkaw7AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBZkLHW1ufRRr90F3kX3EDimOAQg0T1CWiE6nDcwOdtpo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oganai
+
+==================================================================
