@@ -3928,4 +3928,3 @@
 		.titleimg:after{content:'';display:block;height:100%;width:100%;top:0;left:0;position:absolute;pointer-events:none;z-index:3}
 		.titleimg img{filter:grayscale(.25)}
 		.titleimg::after{background:linear-gradient(90deg, #5f459f, #b84f8d);mix-blend-mode:overlay}
-		
