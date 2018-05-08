@@ -261,14 +261,8 @@
 																				<a href="print-04.png"><img class="mySlides" src="print-04-thumb.png"></a></span>
 
 																<div class="align-center">
-
-																	<button class="small demo" onclick="currentDiv(1)">1</button>
-																	<button class="small demo" onclick="currentDiv(2)">2</button>
-																	<button class="small demo" onclick="currentDiv(3)">3</button>
-																	<button class="small demo" onclick="currentDiv(4)">4</button>
-																		<br>
-																		<button class="small demo" onclick="plusDivs(-1)">❮ Prev</button>
-																		<button class="small demo" onclick="plusDivs(1)">Next ❯</button>
+																		<button class="fit demo" onclick="plusDivs(-1)">❮ Prev</button>
+																		<button class="fit demo" onclick="plusDivs(1)">Next ❯</button>
 																	</div>
 																</div>
 																	<script>
@@ -293,10 +287,10 @@
 																				 x[i].style.display = "none";
 																			}
 																			for (i = 0; i < dots.length; i++) {
-																				 dots[i].className = dots[i].className.replace(" special", "");
+																				 dots[i].className = dots[i].className.replace("", "");
 																			}
 																			x[slideIndex-1].style.display = "block";
-																			dots[slideIndex-1].className += " special";
+																			dots[slideIndex-1].className += "";
 																			}
 																			</script>
 												</div>
